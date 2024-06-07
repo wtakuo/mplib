@@ -1,6 +1,6 @@
 {
     "urls": [
-        ["hcsr04/hcsr04.py", "github:wtakuo/mplib/hcsr04/hcsr04.py"]
+        ["hcsr04.py", "github:wtakuo/mplib/hcsr04/hcsr04.py"]
     ]
 }
 
